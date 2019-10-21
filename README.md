@@ -5,15 +5,15 @@ A list of NHS prototypes that design teams have been working on.
 
 ### Audit and Transparency
 
-- All prototypes: https://nhs-audit.herokuapp.com/
+All prototypes: https://nhs-audit.herokuapp.com/
 
 ### National Data Opt Out
 
-- All prototypes: https://ndop-r.herokuapp.com/
+All prototypes: https://ndop-r.herokuapp.com/
 
 ### Manage your referral
 
-- All MYR prototypes:  https://myr-prototype.herokuapp.com/
+All MYR prototypes:  https://myr-prototype.herokuapp.com/
  u: ers
  p: m4keitbetters
 
@@ -22,7 +22,7 @@ A list of NHS prototypes that design teams have been working on.
 
 ### e-Referral Service
 
-- Service search  https://ers-admin-prototype.herokuapp.com/
+Service search  https://ers-admin-prototype.herokuapp.com/
  u: ers
  p: makethenhsbetter
 
