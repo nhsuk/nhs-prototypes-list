@@ -33,7 +33,7 @@ All prototypes: http://manage-nhs-login.herokuapp.com/
  u: manage
  p: login
 
-##  Clinician facing
+##  Professional facing
 
 ### e-Referral Service
 
