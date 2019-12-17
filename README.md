@@ -19,12 +19,6 @@ All MYR prototypes:  https://myr-prototype.herokuapp.com/
  u: hello
  p: hello
  
- ### Summary care record
- All : http://scra-redesign.herokuapp.com/
- u: user
- p: password
- 
- 
 ### National Data Opt Out
 
 All prototypes: https://ndop-r.herokuapp.com/
@@ -68,3 +62,8 @@ https://nhs-identity.herokuapp.com/
 All prototypes: https://nhsjobspreview.herokuapp.com/index
 u: nhsjobs
 p: nhsjobs3
+
+ ### Summary care record
+ All : http://scra-redesign.herokuapp.com/
+ u: user
+ p: password
