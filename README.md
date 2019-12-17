@@ -19,6 +19,11 @@ All MYR prototypes:  https://myr-prototype.herokuapp.com/
  u: hello
  p: hello
  
+ ### Summary care record
+ All : http://scra-redesign.herokuapp.com/
+ u: user
+ p: password
+ 
  
 ### National Data Opt Out
 
