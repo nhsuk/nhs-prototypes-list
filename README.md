@@ -67,3 +67,9 @@ p: nhsjobs3
  All : http://scra-redesign.herokuapp.com/
  u: user
  p: password
+ 
+ 
+### Submit your electronic declaration
+ All : http://nhs-edec.herokuapp.com/
+ u: user
+ p: smartcard
