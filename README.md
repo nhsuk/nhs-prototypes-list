@@ -66,7 +66,7 @@ p: nhsjobs3
  ### Summary care record
  All : http://scra-redesign.herokuapp.com/
  u: user
- p: password
+ p: kingfisher
  
  
 ### Submit your electronic declaration
