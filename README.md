@@ -77,5 +77,7 @@ p: nhsjobs3
  ### NHS profiles
  All: https://nhsuk-org-review-prototype.azurewebsites.net/
  
- ### Cervical Screening
- End to end: https://cervical-screening.herokuapp.com/v5/
+### Cervical Screening
+End to end: https://cervical-screening.herokuapp.com/v5/
+u: total
+p: recall
