@@ -42,6 +42,22 @@ All prototypes: https://delegated-access.herokuapp.com
 All prototypes: http://manage-nhs-login.herokuapp.com/
  u: manage
  p: login
+ 
+### Tell the NHS about your experience of coronavirus
+
+Prototype: https://citizen-survey-tool-prototype.herokuapp.com/
+u: love
+p: nhs
+
+Code: https://github.com/nhsuk/citizen-survey-tool-prototype
+
+### Sign up to be contacted for coronavirus vaccine studies
+
+Prototype: http://permission-to-contact-proto.herokuapp.com/
+u: love
+p: nhs
+
+Code: https://github.com/nhsuk/permission-to-contact-prototype
 
 ##  Professional facing
 
