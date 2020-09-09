@@ -57,6 +57,24 @@ Prototype: http://permission-to-contact-proto.herokuapp.com/
 u: love
 p: nhs
 
+## Get an isolation note (coronavirus)
+
+Prototype: https://sicknote-prototype.herokuapp.com/
+u: carton
+p: kettle
+
+## Get a shielding note (coronavirus)
+
+Prototype: https://get-a-shielding-note.herokuapp.com/
+u: Get
+p: Note
+
+## Get a coronavirus test
+
+Prototype: https://nhsuk-book-a-test-prototype.herokuapp.com/
+u: carton
+p: kettle
+
 Code: https://github.com/nhsuk/permission-to-contact-prototype
 
 ##  Professional facing
