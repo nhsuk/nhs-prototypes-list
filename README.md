@@ -37,11 +37,30 @@ All prototypes: https://delegated-access.herokuapp.com
  u: proxy
  p: foxy
 
+### NHS login - help centre
+
+https://support-nhslogin.herokuapp.com/
+u: help
+p: ineedsomebody
+
+
 ### NHS login - manage your NHS login
 
 All prototypes: http://manage-nhs-login.herokuapp.com/
  u: manage
  p: login
+
+### NHS login - provisioning
+
+http://provisioning.herokuapp.com/
+u: happy
+p: papi
+
+### NHS login - registration
+
+https://nhs-login.herokuapp.com/index
+u: nhs
+p: login
  
 ### Tell the NHS about your experience of coronavirus
 
@@ -94,6 +113,12 @@ All prototypes: http://medex-ur.s3-website.eu-west-2.amazonaws.com
 https://nhs-identity.herokuapp.com/
  u: user
  p: smartcard
+
+### NHS login Identity Verification and Matching Service (ID checker app)
+
+http://nhs-login-prototype-idchecker.herokuapp.com/
+u: ID
+p: checker
 
 ### NHS jobs
 
