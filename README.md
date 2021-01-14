@@ -5,7 +5,7 @@ A list of NHS prototypes that design teams have been working on.
 
 ### NHS app
 
-https://nhs-contact.herokuapp.com/app/v6
+https://nhs-contact.herokuapp.com/
 
 ### NHS website information architecture 
 
