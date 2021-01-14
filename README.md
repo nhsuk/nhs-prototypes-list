@@ -7,6 +7,10 @@ A list of NHS prototypes that design teams have been working on.
 
 https://nhs-contact.herokuapp.com/app/v6
 
+### NHS website information architecture 
+
+https://nhsuk-prototype-ia.azurewebsites.net/
+
 ### Audit and Transparency
 
 All prototypes: https://nhs-audit.herokuapp.com/
