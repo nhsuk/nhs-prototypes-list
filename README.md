@@ -106,6 +106,12 @@ Prototype: https://nhsuk-book-a-test-prototype.herokuapp.com/
 u: carton
 p: kettle
 
+### Find your NHS number
+
+Prototype: https://get-nhs-number-prototype.azurewebsites.net/
+u: whatsmynumber
+p: thatsmynumber
+
 ##  Professional facing
 
 ### e-Referral Service
