@@ -110,7 +110,13 @@ p: kettle
 
 Prototype: https://get-nhs-number-prototype.azurewebsites.net/
 u: whatsmynumber
-p: thatsmynumber
+p: thatsmynumber  
+
+### Book a coronavirus vaccination
+
+Prototype: https://vaccine-booking-prototype.azurewebsites.net/
+u: nhsukcovid
+p: nhsukvaccine
 
 ##  Professional facing
 
