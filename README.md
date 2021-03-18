@@ -167,6 +167,8 @@ p: nhsjobs3
  
  ### NHS profiles
  All: https://nhsuk-org-review-prototype.azurewebsites.net/
+ u: nhsuk
+ p: nhsuk-profiles
  
 ### Cervical Screening
 End to end: https://cervical-screening.herokuapp.com/v5/
